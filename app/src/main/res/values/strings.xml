@@ -1,4 +1,0 @@
-<resources>
-    <string name="app_name">Wechat Notification MessagingStyle</string>
-    <string name="xposed_description">Hook Wechat to use Android Notification MessagingStyle</string>
-</resources>
