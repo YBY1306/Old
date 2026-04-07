@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">微信通知消息样式</string>
+    <string name="xposed_description">使微信支持安卓的消息样式通知</string>
+</resources>
